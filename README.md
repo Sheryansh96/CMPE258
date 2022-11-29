@@ -31,17 +31,17 @@
   - matplotlib
   - numpy
 
-Install the npm packages using :- 
-1. cd frontend
-2. npm install --from-lock-json 
-3. npm audit fix
+#### Install the npm packages using 
+ - cd frontend
+ - npm install --from-lock-json 
+ - npm audit fix
 
 
 5. Run backend.py using python backend.py
 
 6. Then run the frontend application using npm start which will be running on localhost - 3000.
 
-Output:-
+#### Output
 
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/100038612/204424262-40c1512d-9bd6-4f24-978f-43bc915518ad.png">
 
@@ -51,7 +51,6 @@ Select the image to test and the output will be displayed as below
 
 
 7. To run the live video plant disease detection use:-
-1. Run python live_video.py
-2. Being the image of the plant leaf closer to the camera till the time it is detected and the
-output of the plant will be shown in the console.
+ - Run python live_video.py
+ - Being the image of the plant leaf closer to the camera till the time it is detected and the output of the plant will be shown in the console.
  
