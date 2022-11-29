@@ -1,9 +1,10 @@
 # CMPE258 - Plant disease classification using Dense Net
 
-Shreyansh Upadhyay - 015226614 
-Anurag Gajam - 016003377
-Shanmukh Boddu - 016005743 
-Roopa Chiluvuri – 016005795
+## Project team:
+- Shreyansh Upadhyay - 015226614 
+- Anurag Gajam - 016003377
+= Shanmukh Boddu - 016005743 
+- Roopa Chiluvuri – 016005795
 
 
 Steps to check running of the program 
