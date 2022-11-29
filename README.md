@@ -1,5 +1,4 @@
-# CMPE258
-ReadMe
+# CMPE258 - Plant disease classification using Dense Net
 
 Shreyansh Upadhyay - 015226614 
 Anurag Gajam - 016003377
