@@ -7,15 +7,15 @@
 - Roopa Chiluvuri – 016005795
 
 
-Steps to check running of the program 
+### Steps to check running of the program 
 1. Download the zip file
 
 2. Setup for Python:
-Ensure the following versions match
-1. Python : 3.7.13
-2. Opencv-python : 4.1.1.26 
-3. Tensorflow : 2.9.1
-4. Node : 14.7.3
+ Ensure the following versions match
+ 1. Python : 3.7.13
+ 2. Opencv-python : 4.1.1.26 
+ 3. Tensorflow : 2.9.1
+ 4. Node : 14.7.3
 
 
 3. Training the model:
