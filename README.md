@@ -42,7 +42,13 @@ Install the npm packages using :-
 6. Then run the frontend application using npm start which will be running on localhost - 3000.
 
 Output:-
+
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/100038612/204424262-40c1512d-9bd6-4f24-978f-43bc915518ad.png">
+
+Select the image to test and the output will be displayed as below
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/100038612/204424664-5288c01b-17bb-42f3-86d7-ccaedd216e4a.png">
+
 
 7. To run the live video plant disease detection use:-
 1. Run python live_video.py
