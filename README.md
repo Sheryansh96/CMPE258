@@ -12,24 +12,24 @@
 
 2. Setup for Python:
  Ensure the following versions match
- 1. Python : 3.7.13
- 2. Opencv-python : 4.1.1.26 
- 3. Tensorflow : 2.9.1
- 4. Node : 14.7.3
+ - Python : 3.7.13
+ - Opencv-python : 4.1.1.26 
+ - Tensorflow : 2.9.1
+ - Node : 14.7.3
 
 
 3. Training the model:
-1. To train the model run the Preprocessing_Model_training.ipynb file. 2. The output of each cell is already present in the notebook.
+ - To train the model run the Preprocessing_Model_training.ipynb file. 2. The output of each cell is already present in the notebook.
 
 4. Setup for running the backend:
-Install the following packages using pip:-
-1. fastapi
-2. uvicorn
-3. python-multipart
-4. pillow
-5. tensorflow-serving-api==2.5.0 
-6. matplotlib
-7. numpy
+ Install the following packages using pip:-
+  - fastapi
+  - uvicorn
+  - python-multipart
+  - pillow
+  - tensorflow-serving-api==2.5.0 
+  - matplotlib
+  - numpy
 
 Install the npm packages using :- 
 1. cd frontend
