@@ -3,7 +3,7 @@
 ## Project team:
 - Shreyansh Upadhyay - 015226614 
 - Anurag Gajam - 016003377
-= Shanmukh Boddu - 016005743 
+- Shanmukh Boddu - 016005743 
 - Roopa Chiluvuri – 016005795
 
 
